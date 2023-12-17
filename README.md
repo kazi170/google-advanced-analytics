@@ -9,6 +9,8 @@ Salifort Motor employee retention (Capstone Project)
  For this project the team wanted to understand what was causing employees to leave the company and create a model to predict it.
  A logistic regression model was used to predict how many employees will potentially leave the company and what factors caused them to leave.
 
+**Executive summaries.PDF contains the summary of the results from each model**
+
   
  **Courses:**
 1) Foundations of Data Science
